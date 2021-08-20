@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="search_for_an_animation_character">Search for a character</string>
+    <string name="start_date">Start Date :  %s</string>
+    <string name="end_date_s">End Date:  %s</string>
+    <string name="members_watching">Members Watching : %s</string>
+    <string name="rating">IMDB Rating : %s</string>
+    <string name="type">Type : %s</string>
+    <string name="naruto">naruto</string>
+</resources>
